@@ -1,0 +1,1 @@
+Refrigerator temperature monitor is an ESP32 learning project using 10 kΩ NTC thermistor divider; magnetic reed switch. It measures cabinet temperature proxy and publishes validated telemetry over Wi-Fi and TLS MQTT for food storage learners. Includes wiring, setup, calibration, source code, sensor checks, sample data, provisioning, field guidance.
